@@ -1,0 +1,30 @@
+PDF_Configuration
+
+PDF_FilePath=C:\Users\kaps\Downloads\CSVFile2.pdf 
+PDF_SpecificPage=1 
+PDF_ReadAll=No
+PDF_StartPage=1
+PDF_LastPage=1
+PDF_StartLine=3
+
+CSV_Configuration
+
+CSV_FilePath =C:\\Users\\kaps\\Downloads\\CSVFile3.csv
+CSV_Delimiter =","
+CSV_SkipLine =0
+CSV_QuoteChar = "$"
+CSV_SelectedCol = All
+
+TXT_Configuration
+
+TXT_FilePath =C:\\Users\\kaps\\Downloads\\InputData.txt
+TXT_Delimiter =","
+TXT_SkipLine =0
+TXT_QuoteChar = "$"
+TXT_SelectedCol = All
+
+XML Configuration
+XML_FilePath=C:\Users\kaps\Downloads\SampleXML.xml
+XML_ParentNode=staff
+XML_Attribute=id
+XML_Tag=firstname,lastname,salary 
